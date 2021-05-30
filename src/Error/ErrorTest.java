@@ -62,7 +62,10 @@ public class ErrorTest {
 
         System.out.println("还会执行吗");
     }
-
+    @Test
+    public void test2(){
+        System.out.println("master");
+    }
 
 }
 
